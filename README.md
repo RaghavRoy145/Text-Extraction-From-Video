@@ -1,7 +1,7 @@
 Text Extraction From Video
 Basic program to Extract Embedded Text from Video by OCR 
 
-##Requirements
+## Requirements
 
 PILLOW
 pip install Pillow
