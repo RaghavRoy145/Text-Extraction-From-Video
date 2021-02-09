@@ -4,17 +4,17 @@ Basic program to Extract Embedded Text from Video by OCR
 
 ## Requirements
 
-PILLOW
+PILLOW:
 pip install Pillow
 
-PYTESSERACT (ubuntu installation)
+PYTESSERACT (ubuntu installation):
 sudo apt-get install tesseract-ocr
 
-WAND
+WAND:
 pip install Wand
 
-NLTK
+NLTK:
 pip install nltk
 
-NUMPY
+NUMPY:
 pip install numpy
